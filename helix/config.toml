@@ -1,0 +1,11 @@
+theme = "papercolor-dark" 
+
+[editor]
+true-color = true
+idle-timeout = 100
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor.lsp]
+display-messages = true
